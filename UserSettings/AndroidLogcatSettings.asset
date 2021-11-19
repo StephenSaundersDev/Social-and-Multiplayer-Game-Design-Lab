@@ -1,0 +1,209 @@
+{
+    "m_SelectedDeviceId": "emulator-5554",
+    "m_SelectedPackage": {
+        "deviceId": "emulator-5554",
+        "name": "com.DefaultCompany.MobileTesting",
+        "processId": 2877,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "emulator-5554",
+            "name": "com.ldmnq.launcher3",
+            "processId": 1793,
+            "exited": true
+        },
+        {
+            "deviceId": "emulator-5554",
+            "name": "com.DefaultCompany.MobileTesting",
+            "processId": 2994,
+            "exited": true
+        },
+        {
+            "deviceId": "emulator-5554",
+            "name": "com.DefaultCompany.MobileTesting",
+            "processId": 2844,
+            "exited": true
+        },
+        {
+            "deviceId": "emulator-5554",
+            "name": "com.DefaultCompany.MobileTesting",
+            "processId": 3151,
+            "exited": true
+        },
+        {
+            "deviceId": "emulator-5554",
+            "name": "com.DefaultCompany.MobileTesting",
+            "processId": 3378,
+            "exited": true
+        },
+        {
+            "deviceId": "emulator-5554",
+            "name": "com.ldmnq.launcher3",
+            "processId": 1779,
+            "exited": false
+        },
+        {
+            "deviceId": "emulator-5554",
+            "name": "com.DefaultCompany.MobileTesting",
+            "processId": 3593,
+            "exited": false
+        },
+        {
+            "deviceId": "emulator-5554",
+            "name": "com.DefaultCompany.MobileTesting",
+            "processId": 2967,
+            "exited": false
+        },
+        {
+            "deviceId": "emulator-5554",
+            "name": "com.DefaultCompany.MobileTesting",
+            "processId": 2979,
+            "exited": false
+        },
+        {
+            "deviceId": "emulator-5554",
+            "name": "com.DefaultCompany.MobileTesting",
+            "processId": 3182,
+            "exited": false
+        },
+        {
+            "deviceId": "emulator-5554",
+            "name": "com.DefaultCompany.MobileTesting",
+            "processId": 3442,
+            "exited": false
+        },
+        {
+            "deviceId": "emulator-5554",
+            "name": "com.DefaultCompany.MobileTesting",
+            "processId": 3628,
+            "exited": false
+        },
+        {
+            "deviceId": "emulator-5554",
+            "name": "com.DefaultCompany.MobileTesting",
+            "processId": 3822,
+            "exited": false
+        },
+        {
+            "deviceId": "emulator-5554",
+            "name": "com.DefaultCompany.MobileTesting",
+            "processId": 4006,
+            "exited": false
+        },
+        {
+            "deviceId": "emulator-5554",
+            "name": "com.DefaultCompany.MobileTesting",
+            "processId": 4178,
+            "exited": false
+        },
+        {
+            "deviceId": "emulator-5554",
+            "name": "com.DefaultCompany.MobileTesting",
+            "processId": 4359,
+            "exited": false
+        },
+        {
+            "deviceId": "emulator-5554",
+            "name": "com.DefaultCompany.MobileTesting",
+            "processId": 5490,
+            "exited": false
+        },
+        {
+            "deviceId": "emulator-5554",
+            "name": "com.DefaultCompany.MobileTesting",
+            "processId": 5696,
+            "exited": false
+        },
+        {
+            "deviceId": "emulator-5554",
+            "name": "com.DefaultCompany.MobileTesting",
+            "processId": 5880,
+            "exited": false
+        },
+        {
+            "deviceId": "emulator-5554",
+            "name": "com.DefaultCompany.MobileTesting",
+            "processId": 6066,
+            "exited": false
+        },
+        {
+            "deviceId": "emulator-5554",
+            "name": "com.DefaultCompany.MobileTesting",
+            "processId": 6243,
+            "exited": false
+        },
+        {
+            "deviceId": "emulator-5554",
+            "name": "com.DefaultCompany.MobileTesting",
+            "processId": 6558,
+            "exited": false
+        },
+        {
+            "deviceId": "emulator-5554",
+            "name": "com.DefaultCompany.MobileTesting",
+            "processId": 6752,
+            "exited": false
+        },
+        {
+            "deviceId": "emulator-5554",
+            "name": "com.DefaultCompany.MobileTesting",
+            "processId": 2877,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}
